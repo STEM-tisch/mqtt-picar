@@ -1,3 +1,1 @@
-# mqtt-picar
-Raspberry Pi Robotics Car controlled by MQTT commands
-version 1.0
+Project using MQTT Protocol to control PiCar - In Development
